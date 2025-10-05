@@ -1,13 +1,12 @@
 
-# Platform Chaser
+# Anime Bot
 Basic discord bot that utilises myanimelist api to fetch information about an anime or manga and return it in a user friendly format
 
 # Features
-- GUI navigation with options, leaderboard and level selection 
-- Collectible points that change colours before disappearing
-- Random power ups to aid the player 
-- Customizable keyboard controls
-- Dynamic movement for the player 
+- Gets anime/manga information from jikan api 
+- Gets random quotes from animechan api
+- Gets random gifs from otakugifs api
+- Utility commands like 8ball, coinflip and dice
 
 # Installation
 1. Clone or download this repository
